@@ -1,0 +1,22 @@
+/* Layout
+=================== */
+
+body {
+	background: url(../imagens/fundo.png);
+	font-family: Arista Pro Alternate Light;
+}
+
+
+header nav {
+	background: linear-gradient(90deg, rgba(72,109,171,0.61) 0%, rgba(221,69,67,0.61) 100%);
+}
+
+
+
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border-color: white;
+}
+
+
+
